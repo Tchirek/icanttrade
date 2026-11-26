@@ -494,6 +494,7 @@ def main():
     ap.add_argument("--reclaim", type=int, default=3)
     ap.add_argument("--entry-valid", type=int, default=12)
     ap.add_argument("--baseline", action="store_true")
+    ap.add_argument("--out", default=None)
     args = ap.parse_args()
 
     cfg = Cfg(target_mode=args.target, disp_atr=args.disp, reclaim_bars=args.reclaim,
@@ -501,7 +502,7 @@ def main():
     trades, skips = run(cfg, args.start, args.end)
     print("skips:", dict(skips))
     if not trades.empty:
-        trades.to_csv(BASE / f"trades_{args.target}.csv", index=False)
+        trades.to_csv(BASE / (args.out or f"trades_{args.target}.csv"), index=False)
         summarize(trades, f"Model A / {args.target} / {args.start or 'all'}..{args.end or 'all'}")
         for y, g in trades.groupby(trades["entry_time"].dt.year):
             summarize(g, f"year {y}")
