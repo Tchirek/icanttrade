@@ -3,15 +3,19 @@
 - 作者 耳朵数字观察
 - 时长 40:39
 - 来源 [https://www.bilibili.com/video/BV16JbM6YEGV/](https://www.bilibili.com/video/BV16JbM6YEGV/)
-- 由 course2md 生成 · 153 段文字
+- 由 course2md 生成 · 33 张截图 / 153 段文字
 
 ---
 
 ## [00:00](https://www.bilibili.com/video/BV16JbM6YEGV/?t=0)
 
+![视频 00:00 的截图](assets/03/slide_0001.jpg)
+
 This is episode nine for the twenty twenty two ICT mentorship on YouTube. This lecture is going to be on Power Three, which is accumulation, manipulation, and distribution, and New York PM session opportunities.
 
 ## [00:10](https://www.bilibili.com/video/BV16JbM6YEGV/?t=10)
+
+![视频 00:10 的截图](assets/03/slide_0002.jpg)
 
 All right, so we're looking at the Nasdaq E-mini futures. This is the continuous chart on Trading View. So, if you look at. The daily range where we've been. We're inside this range here. Okay, so we have. This swing high, and this swing low. Now, why am I picking these two reference points? Well, namely, this is the low. Most recently. After taking out this short-term low. So we've dug into.
 
@@ -22,6 +26,8 @@ But look how we closed on Monday. We have an indecisive candle. The body was bas
 On Tuesday's trading overnight, the equities markets. Had he run up into this? Imbalance here. So, this fair bag got. Was retracted to in here. This low. In this high. We'll look at that in reference to the lower time frame. This lower level.
 
 ## [01:40](https://www.bilibili.com/video/BV16JbM6YEGV/?t=100)
+
+![视频 01:40 的截图](assets/03/slide_0003.jpg)
 
 Is the low end of the fair value gap on a daily chart? In this level, here is the upper end of the fair value gap. I'm taking your attention to Monday's trading. And I want to talk a little bit about Power Three, which is accumulation. Distribution. And manipulation. Okay, so. Generally, my teachings are like this. If I'm bullish, I'm expecting the opening price.
 
@@ -45,6 +51,8 @@ It'll go even lower than that later on in the afternoon. Yes. Then it rallied. T
 
 ## [04:54](https://www.bilibili.com/video/BV16JbM6YEGV/?t=294)
 
+![视频 04:54 的截图](assets/03/slide_0004.jpg)
+
 a five-minute chart on that same February fourteenth, and I want to take you closer. See what price is done here. That imbalance. The lowest portion of it here, with all the down-closed candles. Here now, this is anchored to the daily bullish order block. But you can see how we traded into it here. With one, two, three, four down, close candles. That is a complete order block on this time frame.
 
 So, consecutive down close candles right before. A. Price surge that has an imbalance. That's how you find your order blocks. Okay, so a high probability order block. Would be. Your narrative or your bias is bullish. You're looking for displacement. That's this right here. Where the market runs real quick. Higher. And the down close candles, you want to mark that out. And anticipate a return back into that.
@@ -57,13 +65,19 @@ No, no. It trades a little bit later than that, and then closes for a little whi
 
 ## [06:28](https://www.bilibili.com/video/BV16JbM6YEGV/?t=388)
 
+![视频 06:28 的截图](assets/03/slide_0005.jpg)
+
 Here is that drop down here on a one-minute chart. It's digging into that. Quarter block, right here. If you look real close, let me go back up one slide. I want you to see what I'm showing you here.
 
 ## [06:38](https://www.bilibili.com/video/BV16JbM6YEGV/?t=398)
 
+![视频 06:38 的截图](assets/03/slide_0006.jpg)
+
 Right here, this price action. See. Fourteen one forty. Fourteen, one twenty. This little area right here, I'm looking at on a one-minute chart.
 
 ## [06:46](https://www.bilibili.com/video/BV16JbM6YEGV/?t=406)
+
+![视频 06:46 的截图](assets/03/slide_0007.jpg)
 
 Fourteen, one forty. Fourteen, one twenty, that in that vicinity. See that small little gap right there.
 
@@ -72,6 +86,8 @@ See it swing high. We trade above it, create a fair value gap there. Trade down 
 The closing parameter for a daily fair value gap. We don't need to know that yet, but this is a likely scenario to go long. And we can look for a run back up into this range here, or run the buy stops above here, or maybe inside here. Sloppy run, but nonetheless, it's. It's still pressing higher.
 
 ## [07:26](https://www.bilibili.com/video/BV16JbM6YEGV/?t=446)
+
+![视频 07:26 的截图](assets/03/slide_0008.jpg)
 
 Now here's today on the fifteenth of February, twenty twenty-two. Notice what we had—we had this enormous price run overnight in technically the London session. Now I want you to think about when you have these overnight runs that were basically these big moves overnight. Before the session begins in New York overnight, what was the market doing? It was rallying.
 
@@ -107,6 +123,8 @@ A retail trader's mindset would be. And the logic behind this. Okay, so the narr
 
 ## [11:46](https://www.bilibili.com/video/BV16JbM6YEGV/?t=706)
 
+![视频 11:46 的截图](assets/03/slide_0009.jpg)
+
 have a fair value yet down here, but it gives us the basis for expecting the price to start to rally into the afternoon. Now at two o'clock in the afternoon. Fourteen hundred on this trading view chart. That starts two o'clock in the afternoon New York local time. We have the market trading down into an imbalance over here. Liquidity resting below these relative equal lows is taken out.
 
 So, what are we looking at? We've seen a price run that we don't think needs to come back down here, because the logic is. The overnight stops have been ran out down here. There's no reason for the market to want to come back down there, but we have this low. And these relative equal lows here, post New York lunch.
@@ -131,15 +149,21 @@ If you are trading six micros, but overall, this is a nice little setup with the
 
 ## [15:06](https://www.bilibili.com/video/BV16JbM6YEGV/?t=906)
 
+![视频 15:06 的截图](assets/03/slide_0010.jpg)
+
 Last slide, and just to hammer this down, this is zoomed in on a one-minute chart. Swing high. Broken. Fair value cap, right there, and we have. That short-term low here, I've noted in here, so that's where you would be basically entering one. But that idea trading below that is where the sell stops are. It rallies here, takes off, and does not take out that. The bicarbonate resting above here.
 
 Did not get taken here yet. And then we had this. Imbalance. And it trades down into it, and then hits what the order block. That's a buy, and you can if you miss this one. You can pick up this one based on the logic I teach on the YouTube channel, and then it runs for that liquidity there. So there's two setups there, folks. Welcome back. This is
 
 ## [15:42](https://www.bilibili.com/video/BV16JbM6YEGV/?t=942)
 
+![视频 15:42 的截图](assets/03/slide_0011.jpg)
+
 episode number ten. Of the twenty twenty two ICT mentorship for the YouTube channel. This lecture is going to be teaching implementing economic calendar events with the open.
 
 ## [15:52](https://www.bilibili.com/video/BV16JbM6YEGV/?t=952)
+
+![视频 15:52 的截图](assets/03/slide_0012.jpg)
 
 All right. So, the economic calendar. Many of you probably don't even consider looking at this, but it's important if you're going to be learning how to speculate, study these markets. Certainly, if you're ever going to consider putting live funds in, then. You really want to know what this calendar says for the day you're going to be trading. Otherwise, you could be surprised. Unfortunately, adversely.
 
@@ -152,6 +176,8 @@ The news embargo lifts at this time at eight thirty. Typically, there's a bunch 
 They may be used as a catalyst to have price go up or down at the time of their release. Other instances, like I'm going to teach tonight, usually there's going to be a build up or a dropping down in price right before the report comes out. And then the real move starts to ensue. Okay, so it'll make more sense as I get into the actual teachings.
 
 ## [17:14](https://www.bilibili.com/video/BV16JbM6YEGV/?t=1034)
+
+![视频 17:14 的截图](assets/03/slide_0013.jpg)
 
 So right away, we're looking at the daily chart. And as I mentioned in the previous episode, I outlined this high here and this low, and that was the range we were within. And the fifty level was equilibrium. So again, above equilibrium is what. The premium market and below fifty percent.
 
@@ -181,6 +207,8 @@ Taking out this cell side and attacking the cell side over here. All right. Let'
 
 ## [20:12](https://www.bilibili.com/video/BV16JbM6YEGV/?t=1212)
 
+![视频 20:12 的截图](assets/03/slide_0014.jpg)
+
 down to an hourly chart. And that fair value gap. The high and the low levels. That's what's being shown here. Right there. So watch what happens. The market trades down, finds some support at the low end of the fair value gap, then rallies back up to the high end of the fair value gap. And then breaks right before midnight on the seventeenth.
 
 And then we consolidate, trade back up into what? What is this? What's this right here? It's a fair bet. Got price goes up, rebalances that there, and it's doing it. What time of day? Not New York. It's overnight, European, London session. London Open. If you know what you're doing with a daily bias, you can catch enormous moves. But sometimes you're gonna have to weigh out. A lot of.
@@ -189,6 +217,8 @@ Give and take back and forth, kind of like today. Where the market rebalanced he
 
 ## [21:02](https://www.bilibili.com/video/BV16JbM6YEGV/?t=1262)
 
+![视频 21:02 的截图](assets/03/slide_0015.jpg)
+
 timeframe. I'm taking a look at this. Imbalance here. We rode up into that, rebalancing all this movement down. Same thing over here. We have the market drop down. Creates a fair value gap here, doesn't it? Take out some lows over here. Yes. There's displacement. And then you can have an order to get in short here. But then, watch what happens. This little pump up.
 
 That might be scary. It could have stopped you if it went higher. That's the risk in this, folks. I'm not gonna. Give you a silver bullet that removes losing trades. I lose trades too.
@@ -196,6 +226,8 @@ That might be scary. It could have stopped you if it went higher. That's the ris
 All right, so we have the morning session starting before 8:30. We have a rally up, and then it breaks lower in this area here. We're going to drop down to a lower time frame, but before I do, I want to give you a little bit more details. Think about what
 
 ## [21:40](https://www.bilibili.com/video/BV16JbM6YEGV/?t=1300)
+
+![视频 21:40 的截图](assets/03/slide_0016.jpg)
 
 I've taught you so far in this teaching for Power Three: the accumulation, manipulation, and distribution cycle of the daily range. If we are trading near the high end of that fair value gap on a daily chart, that's what that level is. Okay, when we just drop down to a lower time frame chart. So, with this fifteen-minute time frame chart, the idea is we're expecting this Power Three formation where it's open.
 
@@ -217,6 +249,8 @@ Right below here, what's that? That's sell side liquidity. Relative equal lows. 
 
 ## [24:26](https://www.bilibili.com/video/BV16JbM6YEGV/?t=1466)
 
+![视频 24:26 的截图](assets/03/slide_0017.jpg)
+
 o'clock in the morning. It rallies above these relative equal highs. And cleans up the imbalance here. And look at that right there. Remember, I told you, if there's two fair value gaps, try to trade it in here, but anticipate and use the money management to allow for your stop to weather a run up into that.
 
 And we got it right there. Now strip it down to what I taught you for the structure of the trade or the framework. Swing high. Broken to the upside, taking out buy stops. So buy side liquidity is taken. Then we have a swing low. It's broken. Did these candles come down lethargically? Was it like a slow meander decline? It was sudden. It was a lot of momentum. It was energetic.
@@ -230,6 +264,8 @@ The four or the three, and you go down to the two minute, and you find it there.
 The high of it here. I wish I would have used a lighter. Color, but this candle's high is right there. It actually goes just above. That one right there. Not by much, but it does. But we don't need that. We don't need that.
 
 ## [26:08](https://www.bilibili.com/video/BV16JbM6YEGV/?t=1568)
+
+![视频 26:08 的截图](assets/03/slide_0018.jpg)
 
 Watch what happens. Here's the four-minute chart. We have buy-side liquidity here. The candles are a little bit more beefier. When we were looking at the previous slide, look at this one. Look at the candles. Look.
 
@@ -249,6 +285,8 @@ Remember that relative equal lows. I said I wish I would have put a line on it. 
 
 ## [28:14](https://www.bilibili.com/video/BV16JbM6YEGV/?t=1694)
 
+![视频 28:14 的截图](assets/03/slide_0019.jpg)
+
 something. From this low up to this high. It's bullish. We're expecting bullish prices. This is how you back test. You tell yourself in your annotations. I was expecting you're you're basically lying to yourself in the in the comments of your chart when you're back testing. But what you're doing is is you're teaching yourself pseudo experience. It's training your subconscious to see this stuff. Like you saw it, life.
 
 And when you record it on the chart in your own imitations. And you log it, and you keep it in your journal. And on the weekend, you go back and look at your Monday, Tuesday, Wednesday, Thursday, Friday, and you look at the previous week. And you start looking at these patterns and how it repeats over and over again. When it's bullish.
@@ -261,6 +299,8 @@ You'll probably lose money, but let's count how many up close candles we have. O
 
 ## [29:42](https://www.bilibili.com/video/BV16JbM6YEGV/?t=1782)
 
+![视频 29:42 的截图](assets/03/slide_0020.jpg)
+
 All right. So we're looking at the S&P Nasdaq futures contract for the March delivery. If you remember, I was outlining this imbalance in here. Okay, and I gave you the high of this candle, the low of that candle, which it should be sitting right on that.
 
 So with this imbalance, we traded down to a discount, back up to a premium. Again, measure the high to the low, and I'll do that for you. All right. So here's fifty percent as equilibrium inside this dealing range, high and low. So we traded from these lows up into a premium. Above fifty percent, below fifty percent is a discount. Here, we tried to rally up above this high, failed.
@@ -270,6 +310,8 @@ Broke back down below fifty percent, and created a gap. Okay, so it comes up. Ba
 So all of this consolidation just sets up another selling opportunity to run down there. All right. So it needs to rebalance this. First. And it spends three days in that range. Then it releases to the downside, attacks the sell side here. And trades into the cell cytosol, resting below here. So let's go into a lower time frame, hourly chart, and ferret out some more information and details.
 
 ## [30:50](https://www.bilibili.com/video/BV16JbM6YEGV/?t=1850)
+
+![视频 30:50 的截图](assets/03/slide_0021.jpg)
 
 Alright, so here is the hourly chart, and you can see that high end of the fair value gap and the low end of the fair value gap, which ended up into that, sold off, consolidated, sold off once more. So I want to go into what I used, what I saw, and then obviously I'll show you in the account where the details were. Okay, alright, so.
 
@@ -285,15 +327,21 @@ I didn't want to limit my profitable exit with having a limit order in, so I jus
 
 ## [32:24](https://www.bilibili.com/video/BV16JbM6YEGV/?t=1944)
 
+![视频 32:24 的截图](assets/03/slide_0022.jpg)
+
 into a fifteen-minute time frame. All right, so we had that run on Friday's high. Here, side of the breakdown, and at ten thirty in the morning, ten thirty three was the actual fill. So it's right in that candle, right in here. I'm trading in that candle going short. So we're going to go into the details and look at why that was the case. So we're going to go into a five-minute chart. Start going down.
 
 Into the details here. A bit taller, so you. Appreciate the imbalances.
 
 ## [32:48](https://www.bilibili.com/video/BV16JbM6YEGV/?t=1968)
 
+![视频 32:48 的截图](assets/03/slide_0023.jpg)
+
 Alright, so we had this rally up. Which, in my mind, was acting like a Judas swing in the morning. Okay, so here's eight thirty. Starts to run higher. So I want to be in going short at this candle's opening, and you can see that.
 
 ## [33:02](https://www.bilibili.com/video/BV16JbM6YEGV/?t=1982)
+
+![视频 33:02 的截图](assets/03/slide_0024.jpg)
 
 Well, maybe you can't see it. The opening price over here. Okay, here is eight thirty's candle right there. The opening at thirteen seven ninety eight and a half.
 
@@ -311,9 +359,13 @@ Okay, so.
 
 ## [34:30](https://www.bilibili.com/video/BV16JbM6YEGV/?t=2070)
 
+![视频 34:30 的截图](assets/03/slide_0025.jpg)
+
 Here is that imbalance and fair value gap on the five-minute chart, but now it's a little skewed because it takes up two candles to show that range. The market trades up, and right in that candle, that one right there is that's where I'm going short. I got in at ten thirty-three. Okay, that was my short. Dropping down into a three-minute chart. Okay, the market
 
 ## [34:46](https://www.bilibili.com/video/BV16JbM6YEGV/?t=2086)
+
+![视频 34:46 的截图](assets/03/slide_0026.jpg)
 
 trades up, works inside that imbalance, and right there, ten thirty-three. That candle, when it's starting to bump up against the top end of that fair value gap. Right there, as it hits that and starts to move away, I'm in there. I'm going short right there. The reason why I'm trusting that and not thinking it's going to go higher is because we have this high here. And then we have this high here.
 
@@ -347,15 +399,21 @@ At the beginning of the video, and what we were referring to last week, the liqu
 
 ## [38:28](https://www.bilibili.com/video/BV16JbM6YEGV/?t=2308)
 
+![视频 38:28 的截图](assets/03/slide_0027.jpg)
+
 it came in. And did so. It opened up. Six o'clock in New York time opened up and then slammed down, accelerating lower. That is the move. That you want to see being short up here and covering down below here. Once it does that and it runs in low deep. That's it. Take your profits and move to the sidelines, and then wait because you have a big gap here.
 
 It's likely to come back and rebalance that and fill it in, and it does. And then, ultimately. Trades. Around that old low. And eventually, pumps up. Into the afternoon. Consolidates.
 
 ## [39:02](https://www.bilibili.com/video/BV16JbM6YEGV/?t=2342)
 
+![视频 39:02 的截图](assets/03/slide_0028.jpg)
+
 Then goes into the early morning, afternoon hours. And I showed.
 
 ## [39:10](https://www.bilibili.com/video/BV16JbM6YEGV/?t=2350)
+
+![视频 39:10 的截图](assets/03/slide_0029.jpg)
 
 How this set up? Because after a big move, you don't want to trade in the morning session. Just don't do it. So when I have a nice winning day. As you'll see, it was a nice little win. I'm not in a hurry to go back in. And then you have these days here where it can trip you up. You don't know what's going on. You don't know what's likely to occur. So. This morning, after nine thirty, again. What's the bias?平时。
 
@@ -365,16 +423,25 @@ And but ultimately, right in here, we have a nice little selling opportunity, an
 
 ## [40:04](https://www.bilibili.com/video/BV16JbM6YEGV/?t=2404)
 
+![视频 40:04 的截图](assets/03/slide_0030.jpg)
+
 the execution yesterday. I had a scratch where I got in a little too early. And the second one, I wasn't sure. It was going to go higher or lower. And just to appease my curiosity. Short end just. See what we get snapped against
 
 ## [40:16](https://www.bilibili.com/video/BV16JbM6YEGV/?t=2416)
+
+![视频 40:16 的截图](assets/03/slide_0031.jpg)
 
 me a little bit. Not not much, but still enough to get my attention, and I knew what I
 
 ## [40:20](https://www.bilibili.com/video/BV16JbM6YEGV/?t=2420)
 
+![视频 40:20 的截图](assets/03/slide_0032.jpg)
+
 was looking for. So there's the short I just outlined in the previous portion of this video. Wrote all that down. Held for the gap. Opening after reopen at six o'clock and. Nice little dandy. Four thousand nine hundred twenty dollars fixes
 
 ## [40:34](https://www.bilibili.com/video/BV16JbM6YEGV/?t=2434)
 
+![视频 40:34 的截图](assets/03/slide_0033.jpg)
+
 the little pinch that took the one trade clear today. The one scratch was nothing; it was covering costs.
+

@@ -3,15 +3,19 @@
 - 作者 耳朵数字观察
 - 时长 55:25
 - 来源 [https://www.bilibili.com/video/BV1nEbM6PEwq/](https://www.bilibili.com/video/BV1nEbM6PEwq/)
-- 由 course2md 生成 · 215 段文字
+- 由 course2md 生成 · 53 张截图 / 215 段文字
 
 ---
 
 ## [00:00](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=0)
 
+![视频 00:00 的截图](assets/05/slide_0001.jpg)
+
 Eighteen of the continuing series of the ICT Two Thousand and Twenty-Two YouTube Mentorship. All right, so we are looking at the Euro Dollar. Upper left-hand corner is always going to be the daily chart. You can see here daily now. If you're looking for bias, you're going to start your
 
 ## [00:14](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=14)
+
+![视频 00:14 的截图](assets/05/slide_0002.jpg)
 
 analysis here. Number one, the bias is bearish. So, if a bearish bias is being implemented, okay, in other words, you're using that in your analysis. You're going through the charts, looking for setups. That would.
 
@@ -35,15 +39,21 @@ Like institutional mindset traders do, there's lots of liquidity around daily hi
 
 ## [02:54](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=174)
 
+![视频 02:54 的截图](assets/05/slide_0003.jpg)
+
 this: Wednesday going into Thursday before Thursday started trading, you'd have this. So you would mark your chart out like this. So if we go up here and we enter this fair value, got.
 
 That's your opportunity to go in looking for shorts. Then, if it starts to go down, you're targeting this low with the expectation. Why is it likely to do that? Because it may want to go down to this low. But this gives you a nice range of profitability, potential profitability. So we're going to drop down into the lower
 
 ## [03:18](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=198)
 
+![视频 03:18 的截图](assets/05/slide_0004.jpg)
+
 time frame. If so, in here it's this imbalance. On the daily chart, but now we can see it also exists in the hourly as well. So we have what this high and this high. What are they? They're relatively equal highs, anchored to that point right there. Having
 
 ## [03:30](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=210)
+
+![视频 03:30 的截图](assets/05/slide_0005.jpg)
 
 something like that, you know, more information zoomed in to a specific area, and then simply go in and start working with the fifteen-minute time frame because. This is all I would do with the hourly chart because the frame of reference is that daily Fibonacci. We have liquidity pool on the hourly chart. We've already mapped out the sixth of April's low. Notice there's no lower low. This low didn't go down to it.
 
@@ -51,9 +61,13 @@ And we start a new day on the seventh here at midnight New York local time. What
 
 ## [03:58](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=238)
 
+![视频 03:58 的截图](assets/05/slide_0006.jpg)
+
 frame here, and as you can see, we already have that little annotation updated on the fifteen-minute
 
 ## [04:02](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=242)
+
+![视频 04:02 的截图](assets/05/slide_0007.jpg)
 
 time frame. All right. So now we have on the fifteen-minute time frame. We're going to annotate the daily dividers. This all is a little vertical line.
 
@@ -65,9 +79,13 @@ Do we get displacement? Now we get down to the nitty gritty. Okay, we have a swi
 
 ## [04:50](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=290)
 
+![视频 04:50 的截图](assets/05/slide_0008.jpg)
+
 low here. It breaks down below that, and then once it does that, does it create an imbalance? Is there a fair value gap? Nudge, nudge. You see that? All right. So we're gonna annotate that. So inside of this range here, we have. Okay, we got. We're looking at the
 
 ## [05:06](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=306)
+
+![视频 05:06 的截图](assets/05/slide_0009.jpg)
 
 market wanting to go higher first, to go lower, and here's that midnight delineation. Start a new day. We rally up, and then we break down. So, what's the model teach trading when the New York session? Okay, so we're trading the New York session in forex. It's seven o'clock in the morning.
 
@@ -77,11 +95,15 @@ It's ten o'clock. So you put your limit order in to sell short right at that pri
 
 ## [05:50](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=350)
 
+![视频 05:50 的截图](assets/05/slide_0010.jpg)
+
 stretched out. You can use that as your stop. If you're really concerned, you can put your stop above the swing high. But whenever you have a big range like that. My stop can place right there, so your stop would be here, and you're going to go short here. That's the minimum expectation using the fifteen-minute time frame.
 
 But we're going to split the fifteen-minute time frame down into five-minute intervals. Okay, so we're going to look inside this range here and see if it's advantageous for us to go down into a five-minute chart. And does it have a fair value gap in that? All right,
 
 ## [06:18](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=378)
+
+![视频 06:18 的截图](assets/05/slide_0011.jpg)
 
 so we're looking at the five-minute chart now, and it's that shaded area here. So it's using this specific candle or that low. And we're looking inside this range right here. Okay, so it's this decline we're looking at. Does it have fair value gap? Well, we have this small one right in here. See that? We have this stretched out one here. Yes, and we have all this run in here where it has a small little fair value gap.
 
@@ -127,9 +149,13 @@ By that time, you have nothing to do, and that's it. You've you've basically tak
 
 ## [11:48](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=708)
 
+![视频 11:48 的截图](assets/05/slide_0012.jpg)
+
 to it here. So at two forty five, it fills it, and that's the end of that. The dollar
 
 ## [11:52](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=712)
+
+![视频 11:52 的截图](assets/05/slide_0013.jpg)
 
 index. This is our daily chart. The idea is that we were looking for a bullish dollar. We've been bullish on dollar for a while now. And I was mentioning that we would go for the full one hundred level. We hit that. I mentioned we would go to one on one. And I mentioned how we could probably draw back down in after hitting one hundred one. That's one of our targets. And the second one was going to be 101.
 
@@ -142,6 +168,8 @@ So, what am I saying? In short, I'm allowing for sloppy price action, as I menti
 So we have to work out that little bit of lull in the volume. So higher prices on dollar—that's what I'm looking for until proven wrong. And we've obviously seen two targets here: hit the 100 level and the 101. Rather handsomely, so I have that level highlighted here. We'll drop down into the hourly chart
 
 ## [13:24](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=804)
+
+![视频 13:24 的截图](assets/05/slide_0014.jpg)
 
 now. Okay, you see how we moved up in. At the one and one level, look what they left here. See that? See how clean that is. Price does not like to leave those types of. Formations in in its wake. So, in other words, even though we had a market drop, even though we took out a swing low, even though we had a fair value gap, even though it came up here and filled it in, look at the bodies respecting that. It's beautiful.
 
@@ -165,13 +193,19 @@ There's a lot of opportunity between intermediate term highs and lows.
 
 ## [16:02](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=962)
 
+![视频 16:02 的截图](assets/05/slide_0015.jpg)
+
 All right, so. Fifteen-minute timeframe. We finally made it. Southside liquidity resting below these lows in here, swing low, and we had southside resting below here as well. So, as I mentioned, too clean up here. They're really building the idea that this is resistance. I don't think that's. The case. And we might want to go a little bit deeper. If it retrades back, let's go back up too.
 
 ## [16:22](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=982)
 
+![视频 16:22 的截图](assets/05/slide_0016.jpg)
+
 Here, we could trade back to the one. Hundred level, maybe sneak below it just a little bit to make everybody think this is really done. All right, so
 
 ## [16:30](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=990)
+
+![视频 16:30 的截图](assets/05/slide_0017.jpg)
 
 here is that hourly fair value gap. But now look at it with the lens of the fifteen-minute time frame. So we have this area here, but then we have this imbalance right there. So it comes up a little bit deeper. Closes that in. What do these two up close candles represent? A bearish shoulder block. So we can use the low of the lowest up close candle and its opening price. You draw that out in time. Hammered it.
 
@@ -189,13 +223,19 @@ Because it creates a fair daga, and the narrative is likely to go lower. Now, th
 
 ## [18:12](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=1092)
 
+![视频 18:12 的截图](assets/05/slide_0018.jpg)
+
 traded down aggressively here on this day, swept below that low. Here's that daily low. Let me go back that way. Because I've done a lot of talking, probably.
 
 ## [18:20](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=1100)
 
+![视频 18:20 的截图](assets/05/slide_0019.jpg)
+
 Make note of it. That daily low is one point zero. Eight. Zero six in one pipette.
 
 ## [18:26](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=1106)
+
+![视频 18:26 的截图](assets/05/slide_0020.jpg)
 
 That's that line right here. Okay, so an hourly chart it breaks down. Slants below it, and look at all this price action in here. This is during Passover. Last week, when I wasn't trading, and we hit that same low here. We rally. Create a fair value gap there. Run right back up to that old highs in here. Alternate entry. On the high. Till lo. We went right up into a.
 
@@ -217,6 +257,8 @@ Because it hit my objective. My objective was: I want to see Euro go below that 
 
 ## [21:14](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=1274)
 
+![视频 21:14 的截图](assets/05/slide_0021.jpg)
+
 Let's go on to the year dollar fifteen-minute time frame. And you can see here again, really nice fair value gap. This is what I was referring to on the hourly chart. It's just really clean here on the 15-minute. Now. When I say clean. What do I mean by that? We have a nice run up here. It returns back to that old daily low, and then we have what displacement—that real energetic run higher. That is algorithmic.
 
 When it creates this gap here. We don't care that it's still stretching up here. What's the narrative? We're short-term right now. Oversold. On the daily, why? Because we took out that old daily low. We went below it, so now it's taking what out of the marketplace? Sell stops or sell side liquidity. So, what's the market going to look for now? Buy side liquidity.
@@ -226,6 +268,8 @@ That means it's got to go higher to get that. So an energetic move off that same
 And reach up into that 62% retracement level on the hourly chart, as I mentioned right before I transitioned to the 15-minute time frame. We reached up into that sixty-two percent treatment level. So that would be an opportunity to buy here and sell, you know, not sell short, but sell year long. All right,
 
 ## [22:26](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=1346)
+
+![视频 22:26 的截图](assets/05/slide_0022.jpg)
 
 so we're dropping down to hourly chart, and here is the E-mini S&P June contract market trade down into that. Short-term low ran out. Sell stops here, or sell-side liquidity, so it purged that liquidity. Then we had all this sloppiness starting the week, and then we dropped down, and then rallied up. Doesn't look too clean and clear in here, does it?
 
@@ -252,6 +296,8 @@ We're trying to participate in a move in the morning session that gets us long, 
 You have to change your thought process about what you're looking at in the charts, and that is narrative. Looking for the daily delivery on that candle, do you swing buy below the opening price? Expect displacement to the upside. Run into liquidity, offset sell to buyers. Move to the sidelines. You're done. Now, what does that look like on a lower time frame? Here's the
 
 ## [25:34](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=1534)
+
+![视频 25:34 的截图](assets/05/slide_0023.jpg)
 
 15 minute time frame. Alright, so here we have this low. Why am I picking that low? Why not that low, Michael? Why didn't you pick this low, Michael? But this movement here—this is the most recent swing low. It rallied up, and it created higher high right above these relative equal highs. So there, at point one to point two, that's your dealing range. Okay.
 
@@ -281,6 +327,8 @@ Annual indiscriminate drop in price. We're looking for a very specific thing. No
 
 ## [29:16](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=1756)
 
+![视频 29:16 的截图](assets/05/slide_0024.jpg)
+
 five-minute chart. Same things I had on the fifty-minute time frame. I now have just. Showing and representing it on a five-minute chart. I want to take a look at price study. Think about what you see in price action here. Right there. See that fair value gap right there. See these two down close candles. That's your order block. That's bullish. Your fair value gap.
 
 At eight thirty, we have a drop down. At eight thirty, we're looking to the left. And see where are our short-term swing lows because. We want to absorb sell stops because smart money will pair that with their buys, and we're looking for an imbalance, preferably. And we just happen to have. It also with an order block.
@@ -293,6 +341,8 @@ Into liquidity. That was outlined relative equal highs on the. Fifteen-minute ti
 
 ## [30:36](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=1836)
 
+![视频 30:36 的截图](assets/05/slide_0025.jpg)
+
 Here is the one-minute chart. How can you apply what I've been teaching you? On the YouTube model. Well, here it is. Here is the low forming. And now, find the setup. That would occur with the YouTube model. So, in other words, we're seeing a movement here. The bias is bullish. We're looking for continuation on the upside.
 
 We have a target based on that 15-minute time frame relative equal highs. What does the model I'm teaching on YouTube? Where does that exist here? Okay, the market has a run above. Short turn high. So we have a shift in market structure that's bullish. What's this? Fair value gap. I trade down into it. Hammers it three consecutive down close candles. That's what your order block.
@@ -302,6 +352,8 @@ All consecutive, because we're looking at one-minute candles. That is the order 
 Trades up into the New York midnight opening candle. Trades back into another gap. Trades into the midpoint of that. Rallies up, consolidates, and then expands up into our objective that was outlined on that fifteen-minute time frame—the relative equal highs. All right, folks, welcome back.
 
 ## [31:40](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=1900)
+
+![视频 31:40 的截图](assets/05/slide_0026.jpg)
 
 While we were in this area here. And I mentioned that I felt that it was going to go below the one hundred level. And if I were making the market, in other words, if I was the market maker, providing the. Parameters at which. The dollar index will go down too. To set up a buying opportunity.
 
@@ -319,11 +371,15 @@ The opposite should be seen for Europe. But before we get
 
 ## [33:26](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2006)
 
+![视频 33:26 的截图](assets/05/slide_0027.jpg)
+
 into that, let's fine tune this a little bit more on the fifteen-minute time frame. You can see we drop down, creating the low of the day in London Open. That's our kill zone.
 
 Teach here on the YouTube channel. It's two o'clock in the morning to five o'clock in the morning, New York local time. Market comes down, creates the low of the day, runs back up, back into an order block here, an optimal trade entry, and market starts to cre. It's run up into the relative equal highs, sweeping that as a daily objective. Now, if this is the low of the day,
 
 ## [33:50](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2030)
+
+![视频 33:50 的截图](assets/05/slide_0028.jpg)
 
 at the same time, euro runs all the way back up.
 
@@ -337,9 +393,13 @@ So this is a false breakout because my analysis was done and shared with you ope
 
 ## [34:56](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2096)
 
+![视频 34:56 的截图](assets/05/slide_0029.jpg)
+
 time frame. You can see that the. Euro went up into its kill zone here, two o'clock in the morning, five o'clock in the morning, New York global time. So it creates the high of the day. So in this price run, we're going to start stripping it. Two minute has the very clean fair value gap. So
 
 ## [35:08](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2108)
+
+![视频 35:08 的截图](assets/05/slide_0030.jpg)
 
 after it ran above that old weekly high, the market trades lower and takes out that short term low. Now some of you might see this short term low and say, "Well, why didn't you use that low instead of this one here?" Well, the reason why is the fair value gap forms right here on this candle. Once that candle closes, the very next candle it opens essentially right at that low.
 
@@ -348,6 +408,8 @@ So it hasn't really moved away, and hasn't really shown me what displacement—s
 Went a little bit lower. That's fine, and then rallies up to that level here. This is the entry point. Now think about where your stop loss would be, and think about where your entry would be based on what I taught you. Using New York session, so here we have a zoomed in to that chart, and here
 
 ## [35:52](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2152)
+
+![视频 35:52 的截图](assets/05/slide_0031.jpg)
 
 is the fair value gap level that you would be putting your limit order in. So it gets filled essentially right there. Remember, it's not going to be placed in the marketplace for a shorting opportunity or entry on limit anytime in here. Because it has to move away from the fear gap. So it doesn't on this candle here. So we have that run through this short-term low.
 
@@ -363,11 +425,15 @@ Drawdown and your stop—all those being what they are here. We go out a little 
 
 ## [37:16](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2236)
 
+![视频 37:16 的截图](assets/05/slide_0032.jpg)
+
 I'm just using a five-minute chart so I can put everything in the fractal. In other words, the fractals just move up and then down. That way, you can see it all, and have the candles still be clean, and have everything on one chart. So all the levels and. Things here being as they were on the two-minute chart, and if you did a Fibonacci run from the. The love here.
 
 Why this one? Because it was the most energetic starting this price run here. That would be apparent price lag. Fifty percent is around in here, so that would be a nice objective initially. That would be your first target. If you're going to hold for the full day, it could. Go down to this area here, and lo and behold, we have that imbalance. The trade traded into that rather recently. Come back,
 
 ## [37:50](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2270)
+
+![视频 37:50 的截图](assets/05/slide_0033.jpg)
 
 so we're looking at the hourly chart on the dollar index. Why are we here? Why are we looking at this? Well, I'm looking at this because I want to show you the relationships between a risk on and risk off. All right. So one of the questions I got.
 
@@ -383,11 +449,15 @@ See it go down to around ninety-nine point nine two. Then I said I would run the
 
 ## [39:24](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2364)
 
+![视频 39:24 的截图](assets/05/slide_0034.jpg)
+
 Let's take a look at what the relationship looks like with the dollar versus the E-mini S&P. So this is the June contract for 2022 of the E-mini S&P futures market. As this dollar was going higher, what was going on in the E-mini S and P? See that inverted relationship there. Why did I feel?
 
 You know, confident to publicly say that ninety nine nine two level. Well, I explained that. Why did I think it was going to rally from there? Because I'm bullish on dollar. Why did I hint that we're going to be going lower into the even the S and P relatively equal lows, and as we enter into May? That's a seasonal tendency. So all those factors
 
 ## [39:56](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2396)
+
+![视频 39:56 的截图](assets/05/slide_0035.jpg)
 
 came together, right? So here's that daily chart, and here's that bearish order block I was referring to, and the high I said is the level we. Don't look for it to be traded to, and you can see we didn't even get. So we route up into the order block. Expected. As we go into that May month, and we're reaching into these relatively. That's the next draw on liquidity. But for now, again, just keep your.
 
@@ -400,6 +470,8 @@ Because I don't know if it's going to accelerate violently to the downside, or i
 Scenario now. If you look at the daily range here today, we had a little bit of movement above the previous day. So we rallied above Monday's high, and then failed. Accelerated to the downside, fell short of just running below these relative equal lows, but I still believe that's where we're likely to go.
 
 ## [41:22](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2482)
+
+![视频 41:22 的截图](assets/05/slide_0036.jpg)
 
 Here is the midnight hour, New York time, and the opening price. There, notice we only had one, two little moves above that, and that's a really anemic movement for what I was expecting—a little bit more pronounced. So, if you have a small little movement like this, it can throw you off if you're expecting, like I was. I wanted to see a little. Higher rally.
 
@@ -421,11 +493,15 @@ So we have an extremely heavy bearish market. So it's not going to give us these
 
 ## [44:00](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2640)
 
+![视频 44:00 的截图](assets/05/slide_0037.jpg)
+
 open setup. This was the move that set up. The only real sound entry, in my opinion. That took place today here. This displacement fair value gap. Rallies up, bare shoulder block. Fairly, you got runs into it, and then you hold it. Because at the microstructure shift below this. Turn low. The imbalance. We went back up in. This inbounds here. Remember what I taught you about this. This one here.
 
 Can be traded too on a spike. It can get up in there, but your entry is on the lower fairway. Do you see the logic working here? You are going to use a stop that's going to allow for the market trading up into this one. So anyway. Let's talk a little bit about the eight thirty time period and nine thirty. All
 
 ## [44:36](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2676)
+
+![视频 44:36 的截图](assets/05/slide_0038.jpg)
 
 right, so here's eight thirty. Got the imbalance here after eight thirty. Now, normally with the model, I'm teaching you to look for something to the left. Prior to eight thirty. Some kind of short-term high. We want to see it rally up. And using the opening price at eight thirty, which is. We want to see it rally above that, runs and stops, then break down and create this type of scenario where it has displacement.
 
@@ -437,6 +513,8 @@ So I'm looking for this framework. To offer power three, which is a fractal elem
 
 ## [45:28](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2728)
 
+![视频 45:28 的截图](assets/05/slide_0039.jpg)
+
 We'll start getting a little bit more detail here. Here we have the four-minute chart, the imbalance here. This is one again. That is not rallying above the opening price at eight thirty. Now it's showing eight twenty eight, but that's. Because I'm showing a four-minute chart. So, don't let that confuse you.
 
 But the opening price again never got traded above at the eight thirty candle. So whatever that opening price is at eight thirty. You extend that out in time, and you want to see that rally above. Now, when you have this expectation. The other aspect of time is the nine thirty opening. That's when the equity market, or stocks themselves, Start trading. Their New York session.
@@ -447,6 +525,8 @@ And clear both sides of the buy and sell, and then whatever the real move is goi
 
 ## [46:38](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2798)
 
+![视频 46:38 的截图](assets/05/slide_0040.jpg)
+
 Even the S and P. Daily chart. This is. June delivery contract month for two thousand and twenty-two, and I want to kind of like bring you back up to speed to what we were looking for over the last weeks or. Month or so. Remember back here. We had that bearish order block. I outlined that as. An area to watch that and. We're entering a seasonal tendency, so we're expecting lower prices.
 
 We got lower prices. I showed you the relationship between the dollar because it's risk off. So we have all the decline. Taking place in the equities markets, and I said that we would be likely to draw down into this relative equal low. We're looking at. How the market did, in fact, trade down into our relative equal lows. So this was the draw on liquidity. Now, imagine an, you know, a magnet of some kind. Down here.
@@ -455,6 +535,8 @@ And price is going to be drawn down to that level here. So this is where the liq
 
 ## [47:34](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2854)
 
+![视频 47:34 的截图](assets/05/slide_0041.jpg)
+
 So we had a run here. Yesterday, it just kept pumping higher, higher, higher, higher, higher. Just fell short of this high. And then, so we had a decline. And then the normal pause. And they gapped it down, then rallied back up. So between this candle's low. And this candle's opening right in here. That's an imbalance coupled with an actual gap. So I want you to take a look at that now.
 
 We have this candle here. Small little piece of that one here. This one. This one. This one. And this one. They go just above. That area here. This is permissible price action. In other words, this is something you have to get used to. Look at the bodies of the candle. See how they're staying inside. Of that imbalance. It reaches for liquidity and stops. On these wicks.
@@ -462,6 +544,8 @@ We have this candle here. Small little piece of that one here. This one. This on
 But the bulk of the volume is being held inside of this imbalance. Notice that. So now we have the market release go to the downside, and then here is nine o'clock in the morning. I'm going to go into eight thirty actually. Let's just go down to a fifteen-minute
 
 ## [48:30](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=2910)
+
+![视频 48:30 的截图](assets/05/slide_0042.jpg)
 
 chart. So here's nine thirty. That opening price at nine thirty. What's actually happening is the equities are opening up. The stock market. Starts trading. That's when you hear the bell, ding ding ding. You know, sudden. Everybody's clapping their hands on TV, whatever. That's what's occurring here. It's opening, so it's running a short term.
 
@@ -485,9 +569,13 @@ Here it is. Let's go into a five-minute chart. One.
 
 ## [51:00](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=3060)
 
+![视频 51:00 的截图](assets/05/slide_0043.jpg)
+
 Relative equal highs. You see that. Now, if you're looking at the lower time frame charts, let me get this off. If you're looking
 
 ## [51:08](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=3068)
+
+![视频 51:08 的截图](assets/05/slide_0044.jpg)
 
 at that like that, here's the opening price. You know there's what resting above that buy side. So, buy stops or buy side liquidity. Is resting here, so it can run up. And just to the left of that, also you see these highs here. They're real close to one another too. So, for good measure, they might want to come up here and clean that down. This is a little too much. I think it's too rich for.
 
@@ -495,13 +583,19 @@ The expectation to get to that high, but in here is reasonable. But here, at lea
 
 ## [51:32](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=3092)
 
+![视频 51:32 的截图](assets/05/slide_0045.jpg)
+
 those out. Then it breaks down. Comes one more time back above the opening price. And then gives up the ghost and aggressively runs for the cell side below here. But we're going to take a closer look inside of this area here.
 
 ## [51:42](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=3102)
 
+![视频 51:42 的截图](assets/05/slide_0046.jpg)
+
 So we have in this area where the market ran above those relative equal highs. Here they are. Here.
 
 ## [51:46](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=3106)
+
+![视频 51:46 的截图](assets/05/slide_0047.jpg)
 
 Runs up, then it breaks down. Right here. See that right there. That's a swing low. Breaks below it. Was there displacement? Yes. Does it mark come back up into this little area here? Yes. Is it about the opening price? Yes. Is that enough? Sure it is. You can be short there. You have to weather this one more run up into your entry.
 
@@ -511,6 +605,8 @@ Or are you just concerned about making the maximum amount of money on your trade
 
 ## [52:44](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=3164)
 
+![视频 52:44 的截图](assets/05/slide_0048.jpg)
+
 Okay, and we're going to go look at the afternoon session. Here is. Thirty-five. And I remember I stated at around one thirty. That's when I like to go back in. Now I've taken trades earlier than that, but I'd like to see one thirty. After one thirty, the lunch hour.
 
 It has been smoothed out, and then there's usually some kind of a retracement higher when it's bearish, or retracement lower when it's bullish. And you're seeing that here: the imbalance, relative equal highs. It runs up into that right there. That's an area you can get short on. Market delivers.
@@ -519,9 +615,13 @@ A run lower. Here's another little fairway gap in there. It runs up into that. T
 
 ## [53:20](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=3200)
 
+![视频 53:20 的截图](assets/05/slide_0049.jpg)
+
 Do you see? Look at the high here at. Two o'clock in the morning. Two thirty in the morning today, Friday, April twenty ninth, twenty twenty two. The rally here after eight thirty. It creates the high, but it's lower than the high it took two thirty overnight. I'll go back. To the Nasdaq.
 
 ## [53:38](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=3218)
+
+![视频 53:38 的截图](assets/05/slide_0050.jpg)
 
 Two thirty-five. And we have a higher run. On Nasdaq. So this is what I teach: is SMT. Okay. It's showing. It's showing a willingness to crack the correlation. Between like markets. These are closely correlated assets. The S and P five hundred stocks composite and the Nasdaq one hundred stocks composite. They generally move together in tandem. Not all the time.
 
@@ -531,14 +631,21 @@ By hitting this little tab here.
 
 ## [54:34](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=3274)
 
+![视频 54:34 的截图](assets/05/slide_0051.jpg)
+
 And we're gonna add this Emini S and P. New pain.
 
 ## [54:38](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=3278)
+
+![视频 54:38 的截图](assets/05/slide_0052.jpg)
 
 So it plots it below, and then if you're comparing highs. You want to go over here. Go to little gear. Price source. You want to change that to high. And you can see. Hi. To high. Hi. To high. Higher here. Lower there. So it looks like.
 
 ## [54:56](https://www.bilibili.com/video/BV1nEbM6PEwq/?t=3296)
 
+![视频 54:56 的截图](assets/05/slide_0053.jpg)
+
 It looks like. A divergence. You see that. With an indicator. But it's not an indicator. It's price. I use intermarket relationships and correlation. And correlation used properly. There's a lot of people out there talking about correlation. They have no idea what you're talking about. But if you look at the idea of this relationship here. It gives you like an X-ray view of. Real accumulation and distribution.
 
 This is distribution. Because it doesn't see the same rally higher that the Nasdaq did.
+
